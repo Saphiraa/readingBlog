@@ -89,13 +89,13 @@ img.\.App-pill-right-horizontal {
   transform: rotate(270deg);
   width: calc(100em - 93.5em);
   margin-left: 5em;
-  margin-top: -7em;
+  margin-top: -8.5em;
 }
 
 img.\.App-triangle {
   z-index: 99;
   width: 38em;
-  margin-top: -35.7em;
+  margin-top: -36em;
   margin-left: 30em;
 }
 
